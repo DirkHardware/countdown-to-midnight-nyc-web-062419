@@ -4,6 +4,6 @@ def countdown(int)
   time = int
   while time > 0
     puts "#{time} SECOND(S)!"
-    time -=
+    time -= 1
   end
 end
