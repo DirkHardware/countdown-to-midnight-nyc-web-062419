@@ -5,6 +5,6 @@ def countdown(int)
   while time > 0
     puts "#{time} SECOND(S)!"
     time -=
-  end 
+  end
   "HAPPY NEW YEAR!"
 end
